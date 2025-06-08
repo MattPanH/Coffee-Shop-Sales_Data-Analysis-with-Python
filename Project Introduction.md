@@ -5,4 +5,4 @@ The following questions were considered in my data analysis:
 <br/> 2) What kinds of customers generate the most sales? Can you explain why?
 <br/> 3) Which segment of its customer base should the company target a marketing campaign towards?
 
-The dataset originally comes from IBM and more information is available here: https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113
+The dataset originally comes from IBM and can be accessed from this link://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113
