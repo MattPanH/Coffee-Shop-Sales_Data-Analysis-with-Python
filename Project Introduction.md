@@ -1,4 +1,4 @@
-There is a large coffee shop chain, who want to expand their loyalty program by including product discounts and targeted advertising. For this they require a deeper understanding of their customer base and their customers’ buying patterns. They have provided some transaction data for us to review and make initial recommendations.
+There is a large coffee shop chain, who want to expand their loyalty program by including product discounts and targeted advertising. For this they require a deeper understanding of their customer base and their customers’ buying patterns. They have provided some transaction data for me to review and make initial recommendations.
 
 The following questions were considered in my data analysis:
 <br/> 1) What kinds of products generate the most sales?
